@@ -1,7 +1,7 @@
 import numpy as np, pandas as pd, cv2, matplotlib.pyplot as plt, pytesseract
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 
-img=cv2.imread('Z:\\Antriksh\\WSVD\\anpr proj\\car_2.jpg')
+img=cv2.imread('..\\car_2.jpg')
 gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 re, threshold=cv2.threshold(gray,200,
                             255,cv2.THRESH_TOZERO_INV)
