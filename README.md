@@ -6,18 +6,18 @@ The detected license plate bounding box can be cropped and passed to an OCR to r
 
 ## Sample Outputs
 1.
-![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/car_2.jpg)
-![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/ths1.jpg)
-![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/th1.jpg)
-![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/op1.jpg)
-![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/n1.jpg)
+![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/imgs/car_2.jpg)
+![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/imgs/ths1.jpg)
+![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/imgs/th1.jpg)
+![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/imgs/op1.jpg)
+![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/imgs/n1.jpg)
 
 2.
-![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/car_3.jpg)
-![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/ths2.jpg)
-![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/th2.jpg)
-![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/op2.jpg)
-![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/n2.jpg)
+![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/imgs/car_3.jpg)
+![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/imgs/ths2.jpg)
+![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/imgs/th2.jpg)
+![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/imgs/op2.jpg)
+![alt text](https://raw.githubusercontent.com/antrix99/License-Plate-Detection-Using-OpenCV/master/imgs/n2.jpg)
 
 ## Limitations
 
